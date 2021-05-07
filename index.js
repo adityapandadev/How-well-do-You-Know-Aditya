@@ -73,10 +73,6 @@ var tscore;
 
 var highscoreList = [
   {
-    name : "Purva",
-    tscore : 5
-  },
-  {
     name : "Kanu",
     tscore : 3
   }
