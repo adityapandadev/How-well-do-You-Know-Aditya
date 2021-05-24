@@ -1,5 +1,5 @@
 # Hey Folks.....
-## Welcome to Do You Know Aditya quiz game.
+## Welcome to How Well Do You Know Aditya quiz game.
 
 I have made this quiz with help of javascript.
 
